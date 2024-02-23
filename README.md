@@ -2,11 +2,11 @@ Below is a template for a README file that outlines how to set up and consume th
 
 ---
 
-# API Name
+# Beyond Borders
 
 ## Description
 
-This API provides [brief description of the API functionality].
+An api for travel.
 
 ## Table of Contents
 
